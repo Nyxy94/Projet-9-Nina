@@ -267,6 +267,18 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+footer {
+	background-color: #1c6474;
+	padding-block: 2em;
+	color: white;
+	text-align: center;
+	p {
+	  a {
+		color: white;
+	  }
+	}
+  }
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex: 2;
